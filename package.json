@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-export-excel",
+  "version": "1.0.0",
+  "description": "nodejs的excel导入/导出demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "superqjq",
+  "license": "ISC",
+  "dependencies": {
+    "express": "~4.8.8",
+    "node-xlrd": "0.2.4",
+    "excel-export": "0.4.1"
+  }
+}
